@@ -1,0 +1,62 @@
+
+body {
+width: 100%;
+height: 100%;
+margin: 0px;
+}
+
+.menu-principal {
+width: 100%;
+background-color: #606062;
+height: 93px;
+}
+
+.header-2 {
+width: 100%;
+background-color: #8d8d8d;
+height: 130px;
+border-bottom: 10px solid #606062;
+    }
+
+main {
+margin: 0 auto;
+width: 1000px;
+position: relative;
+}
+
+.logo {
+float: left;
+padding: 16px;
+width: 70%;
+}
+
+.desenvolvedores ul li {
+display: inline-block;
+float: left;
+list-style: none;
+} 
+
+.desenvolvedores {
+width: 20%;
+float: right;
+}
+
+.menu ul li {
+display: inline-block;
+color: #000000;
+margin-left: 20px;
+padding: 20px;
+float: left;
+}
+
+.menu ul li a {
+color: #000000;
+text-decoration: none;
+font-size: 25px;
+text-transform: capitalize;
+}
+
+.exp {
+    color: #ff0000;
+    font-size:30px;
+}
